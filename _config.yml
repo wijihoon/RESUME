@@ -3,13 +3,13 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: 이준현 (Lee Jun Hyun)
+name: 위지훈 (Wi Ji Hoon)
 title: Junior Back-End Developer
-email: dlwnsgus777@naver.com
-website: https://pro-dev.tistory.com/
+email: wijihoon123@naver.com
+website: https://velog.io/@wijihoon123
 
 # Social links
-github_username: dlwnsgus777
+github_username: wijihoon
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -23,20 +23,17 @@ linkedin_username: 준현-이-043767168
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  나이 : 28 세 (1993년 생) 
+  나이 : 27 세 (1995년 생)
 
-  최종 학력 : 전문대졸 (안산대학교)
+  최종 학력 : 대학원 (미정)
 
-  사는 곳 : 인천광역시
+  사는 곳 : 서울특별시
 
-
-  병역사항 : 이등병 소집해제 (2015.12 ~ 2018.02) - 산업체 복무 (생산직)
-
-  사용 기술 : <mark>Java</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>Node</mark> <mark>Vue</mark>
+  사용 기술 : <mark>Java</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>Node</mark> <mark>React</mark>
 
   <mark>Back-end</mark> 개발자를 목표로 하고있습니다.
 
-#연락처 : 010 - 3219 - 0466
+#연락처 : 010 - 9819 - 7168
 
 # Projects Section
 # projects_title: Projects
